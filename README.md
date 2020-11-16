@@ -20,5 +20,6 @@ Run the program then switch back to the cover page of the ebook. After a few sec
 
 Wait for the program to complete. If everything worked out, you should have a complete pdf named "Textbook.pdf" in the folder you made
 
+If you get a memory error you can try reducing the loop size and running it multiple times. (Instead of "for i in range(0, book_length)" change to "for i in range(0, book_length/2 or 4)")
 
 All credit goes to u/elitesla on reddit. I am just putting it on github for more people to find.
