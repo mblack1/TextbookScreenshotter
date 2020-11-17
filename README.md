@@ -24,4 +24,4 @@ Last but not least, upload your book to Libgen using username: **genesis**, pass
 
 If you get a memory error you can try reducing the loop size and running it multiple times. (Instead of "for i in range(0, book_length)" change to "for i in range(0, book_length/2)")
 
-**All credit goes to [u/elitesla](https://www.reddit.com/user/elitesla)on reddit. I am just putting it on github for more people to find.**
+**All credit goes to [u/elitesla](https://www.reddit.com/user/elitesla) on reddit. I am just putting it on github for more people to find.**
