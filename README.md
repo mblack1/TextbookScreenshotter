@@ -1,6 +1,8 @@
 # TextbookScreenshotter
 This script screenshots textbook pages and merges them into a pdf.
 
+# Credit
+** This is not my code. All credit goes to [u/elitesla](https://www.reddit.com/user/elitesla) on reddit. I am just putting it on github for more people to find.**
 # How to use it
 If you don't have it installed already, make sure to download the latest version of Python from https://www.python.org/downloads/
 
@@ -23,5 +25,3 @@ Wait for the program to complete. If everything worked out, you should have a co
 Last but not least, upload your book to Libgen using username: **genesis**, password: **upload**
 
 If you get a memory error you can try reducing the loop size and running it multiple times. (Instead of "for i in range(0, book_length)" change to "for i in range(0, book_length/2)")
-
-**All credit goes to [u/elitesla](https://www.reddit.com/user/elitesla) on reddit. I am just putting it on github for more people to find.**
