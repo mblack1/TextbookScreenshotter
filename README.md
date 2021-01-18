@@ -1,7 +1,7 @@
 # TextbookScreenshotter
 This script screenshots textbook pages and merges them into a pdf.
 
-# Credit
+# Note
 **This is not my code. All credit goes to [u/elitesla](https://www.reddit.com/user/elitesla) on reddit. I am just putting it on github for more people to find.**
 # How to use it
 If you don't have it installed already, make sure to download the latest version of Python from https://www.python.org/downloads/
