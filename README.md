@@ -22,6 +22,5 @@ Run the program then switch back to the cover page of the ebook. After a few sec
 
 Wait for the program to complete. If everything worked out, you should have a complete pdf named "Textbook.pdf" in the folder you made
 
-Last but not least, upload your book to Libgen using username: **genesis**, password: **upload**
 
 If you get a memory error you can try reducing the loop size and running it multiple times. (Instead of "for i in range(0, book_length)" change to "for i in range(0, book_length/2)")
